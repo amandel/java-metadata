@@ -16112,6 +16112,56 @@
     "features": [
       "lite"
     ],
+    "file_type": "pkg",
+    "filename": "bellsoft-jdk22.0.1+10-macos-aarch64-lite.pkg",
+    "image_type": "jdk",
+    "java_version": "22.0.1+10",
+    "jvm_impl": "hotspot",
+    "md5": "060729dc66b8873c2d5238ea4001dd74",
+    "md5_file": "bellsoft-jdk22.0.1+10-macos-aarch64-lite.pkg.md5",
+    "os": "macosx",
+    "release_type": "ga",
+    "sha1": "689c502fe79b024dddcef884855e21c852bdede2",
+    "sha1_file": "bellsoft-jdk22.0.1+10-macos-aarch64-lite.pkg.sha1",
+    "sha256": "e78dab259282aa69ed9deb0f66e1df86281242c77f7bc50d52acaf25429989a5",
+    "sha256_file": "bellsoft-jdk22.0.1+10-macos-aarch64-lite.pkg.sha256",
+    "sha512": "60803540d65b78598c4e9e7fd26ed110a729f6d8d3e11dc39c707874c6ad6bd17b50d9887565a4b6bdda6f528eba3bae8990c22cb28665156b90301710fa015a",
+    "sha512_file": "bellsoft-jdk22.0.1+10-macos-aarch64-lite.pkg.sha512",
+    "size": 75728959,
+    "url": "https://github.com/bell-sw/Liberica/releases/download/22.0.1+10/bellsoft-jdk22.0.1+10-macos-aarch64-lite.pkg",
+    "vendor": "liberica",
+    "version": "22.0.1+10"
+  },
+  {
+    "architecture": "aarch64",
+    "features": [
+      "lite"
+    ],
+    "file_type": "tar.gz",
+    "filename": "bellsoft-jdk22.0.1+10-macos-aarch64-lite.tar.gz",
+    "image_type": "jdk",
+    "java_version": "22.0.1+10",
+    "jvm_impl": "hotspot",
+    "md5": "2d7996b7b5b82c9865088567f63dd0c6",
+    "md5_file": "bellsoft-jdk22.0.1+10-macos-aarch64-lite.tar.gz.md5",
+    "os": "macosx",
+    "release_type": "ga",
+    "sha1": "55ba7f6bb2176661cdf2a157edce6f2871750244",
+    "sha1_file": "bellsoft-jdk22.0.1+10-macos-aarch64-lite.tar.gz.sha1",
+    "sha256": "f1399f8691c0304c9ef7691fb19491945b30e2b8926f6f7cc4fd3e3263414043",
+    "sha256_file": "bellsoft-jdk22.0.1+10-macos-aarch64-lite.tar.gz.sha256",
+    "sha512": "37d9aad82afef695efc2174bdc5c992adea395f4972d6f9132a2ee3b922cdccb000928db7e2efbd75950d70e32363e359a838f0e261bbcbb08b683bf5e4f6bbd",
+    "sha512_file": "bellsoft-jdk22.0.1+10-macos-aarch64-lite.tar.gz.sha512",
+    "size": 75316026,
+    "url": "https://github.com/bell-sw/Liberica/releases/download/22.0.1+10/bellsoft-jdk22.0.1+10-macos-aarch64-lite.tar.gz",
+    "vendor": "liberica",
+    "version": "22.0.1+10"
+  },
+  {
+    "architecture": "aarch64",
+    "features": [
+      "lite"
+    ],
     "file_type": "zip",
     "filename": "bellsoft-jdk22.0.1+10-macos-aarch64-lite.zip",
     "image_type": "jdk",
