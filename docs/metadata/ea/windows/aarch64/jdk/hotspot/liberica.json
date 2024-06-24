@@ -48,5 +48,55 @@
     "url": "https://github.com/bell-sw/Liberica/releases/download/23+25-ea-leyden/bellsoft-jdk23+25-ea-windows-aarch64-leyden.zip",
     "vendor": "liberica",
     "version": "23+25-ea"
+  },
+  {
+    "architecture": "aarch64",
+    "features": [
+      "leyden"
+    ],
+    "file_type": "msi",
+    "filename": "bellsoft-jdk24+2-ea-windows-aarch64-leyden.msi",
+    "image_type": "jdk",
+    "java_version": "24+2-ea",
+    "jvm_impl": "hotspot",
+    "md5": "11055e58cc1e3961a36f38b880c882f8",
+    "md5_file": "bellsoft-jdk24+2-ea-windows-aarch64-leyden.msi.md5",
+    "os": "windows",
+    "release_type": "ea",
+    "sha1": "78a3f2bb05c634db347f75c26f94a4761b7215c1",
+    "sha1_file": "bellsoft-jdk24+2-ea-windows-aarch64-leyden.msi.sha1",
+    "sha256": "4c965f7c1cbec613ab7d907f01566810ce99ebfeb71716a9890b379198f924e8",
+    "sha256_file": "bellsoft-jdk24+2-ea-windows-aarch64-leyden.msi.sha256",
+    "sha512": "22eb5298cde2e45b769bef8b1d178dacba6e1d2a348eb4bf2d2cf20206d81759cd7cf27a9def9eba045722a6249d574c0c710dedba6d6dd335f2b1421cac463a",
+    "sha512_file": "bellsoft-jdk24+2-ea-windows-aarch64-leyden.msi.sha512",
+    "size": 196603904,
+    "url": "https://github.com/bell-sw/Liberica/releases/download/24+2-ea-leyden/bellsoft-jdk24+2-ea-windows-aarch64-leyden.msi",
+    "vendor": "liberica",
+    "version": "24+2-ea"
+  },
+  {
+    "architecture": "aarch64",
+    "features": [
+      "leyden"
+    ],
+    "file_type": "zip",
+    "filename": "bellsoft-jdk24+2-ea-windows-aarch64-leyden.zip",
+    "image_type": "jdk",
+    "java_version": "24+2-ea",
+    "jvm_impl": "hotspot",
+    "md5": "2065bafa7fff9b4b83f3e224630ec883",
+    "md5_file": "bellsoft-jdk24+2-ea-windows-aarch64-leyden.zip.md5",
+    "os": "windows",
+    "release_type": "ea",
+    "sha1": "c7c72cff8983ca21e0e3f5ff25b1507c6d84b991",
+    "sha1_file": "bellsoft-jdk24+2-ea-windows-aarch64-leyden.zip.sha1",
+    "sha256": "3523a0fa7d08fffcca97037f7bfd0cc54702a7facae19b65a323558cfc134ee9",
+    "sha256_file": "bellsoft-jdk24+2-ea-windows-aarch64-leyden.zip.sha256",
+    "sha512": "8d1d5e121f2f4796783a20a0f25da6534b1bbfa8d2d30c398c4f57745344e1ecd729b7222f6effc8ed02d91103175f60665774ffca08b3331777e8d7937a6819",
+    "sha512_file": "bellsoft-jdk24+2-ea-windows-aarch64-leyden.zip.sha512",
+    "size": 198694660,
+    "url": "https://github.com/bell-sw/Liberica/releases/download/24+2-ea-leyden/bellsoft-jdk24+2-ea-windows-aarch64-leyden.zip",
+    "vendor": "liberica",
+    "version": "24+2-ea"
   }
 ]
