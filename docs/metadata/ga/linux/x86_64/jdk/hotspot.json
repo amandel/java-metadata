@@ -65770,6 +65770,57 @@
   {
     "architecture": "x86_64",
     "features": [
+      "crac",
+      "musl"
+    ],
+    "file_type": "tar.gz",
+    "filename": "zulu17.52.19-ca-crac-jdk17.0.12-linux_musl_x64.tar.gz",
+    "image_type": "jdk",
+    "java_version": "17.0.12",
+    "jvm_impl": "hotspot",
+    "md5": "f21ddac2274aa20bdc2b7bbc0a3fa7c9",
+    "md5_file": "zulu17.52.19-ca-crac-jdk17.0.12-linux_musl_x64.tar.gz.md5",
+    "os": "linux",
+    "release_type": "ga",
+    "sha1": "e9d811e446512a9602b26dfef0eda2d1093ddb64",
+    "sha1_file": "zulu17.52.19-ca-crac-jdk17.0.12-linux_musl_x64.tar.gz.sha1",
+    "sha256": "8ef4195a745736f825133d47800059bc30a4c9a950ee9680fc375935d77526e7",
+    "sha256_file": "zulu17.52.19-ca-crac-jdk17.0.12-linux_musl_x64.tar.gz.sha256",
+    "sha512": "640c10ef5bbf489676ec6cd230323bc07f582c66e9b3065c7d7ca50f2f1a2e9205bed85ec2ad2f58d99ac3f73afcf0845d395713679f616a7ab897e8c11b25cd",
+    "sha512_file": "zulu17.52.19-ca-crac-jdk17.0.12-linux_musl_x64.tar.gz.sha512",
+    "size": 206846447,
+    "url": "https://static.azul.com/zulu/bin/zulu17.52.19-ca-crac-jdk17.0.12-linux_musl_x64.tar.gz",
+    "vendor": "zulu",
+    "version": "17.52.19"
+  },
+  {
+    "architecture": "x86_64",
+    "features": [
+      "crac"
+    ],
+    "file_type": "tar.gz",
+    "filename": "zulu17.52.19-ca-crac-jdk17.0.12-linux_x64.tar.gz",
+    "image_type": "jdk",
+    "java_version": "17.0.12",
+    "jvm_impl": "hotspot",
+    "md5": "3ba7f60c16dd61880af72369f060689b",
+    "md5_file": "zulu17.52.19-ca-crac-jdk17.0.12-linux_x64.tar.gz.md5",
+    "os": "linux",
+    "release_type": "ga",
+    "sha1": "80202364fd905c8b851df898e1a271d5a4e1a344",
+    "sha1_file": "zulu17.52.19-ca-crac-jdk17.0.12-linux_x64.tar.gz.sha1",
+    "sha256": "5914f3112a009b9e0b1b9ef866fca70d70d91d8484271e564f972be6d65d4926",
+    "sha256_file": "zulu17.52.19-ca-crac-jdk17.0.12-linux_x64.tar.gz.sha256",
+    "sha512": "6236f136be86cda3b809a273dd63630ef6bb473ed60b64f108f3b626c7e1664767d07b760a0a33eddba374a31115b5b9966c54e8d3c1f4371710432f3d764d80",
+    "sha512_file": "zulu17.52.19-ca-crac-jdk17.0.12-linux_x64.tar.gz.sha512",
+    "size": 203903777,
+    "url": "https://static.azul.com/zulu/bin/zulu17.52.19-ca-crac-jdk17.0.12-linux_x64.tar.gz",
+    "vendor": "zulu",
+    "version": "17.52.19"
+  },
+  {
+    "architecture": "x86_64",
+    "features": [
       "javafx"
     ],
     "file_type": "tar.gz",
@@ -67438,6 +67489,57 @@
   {
     "architecture": "x86_64",
     "features": [
+      "crac",
+      "musl"
+    ],
+    "file_type": "tar.gz",
+    "filename": "zulu21.36.19-ca-crac-jdk21.0.4-linux_musl_x64.tar.gz",
+    "image_type": "jdk",
+    "java_version": "21.0.4",
+    "jvm_impl": "hotspot",
+    "md5": "5f2dc24e3056362c22b4e040eceeb82c",
+    "md5_file": "zulu21.36.19-ca-crac-jdk21.0.4-linux_musl_x64.tar.gz.md5",
+    "os": "linux",
+    "release_type": "ga",
+    "sha1": "e346576660575af001cf9e39133f7f33c6a3ce1b",
+    "sha1_file": "zulu21.36.19-ca-crac-jdk21.0.4-linux_musl_x64.tar.gz.sha1",
+    "sha256": "44a4998794c9b7bf229b1f4b2460096e7735d6112a6c2ab6306add9b88c49ab4",
+    "sha256_file": "zulu21.36.19-ca-crac-jdk21.0.4-linux_musl_x64.tar.gz.sha256",
+    "sha512": "c14fac45e627712a3feb1e03f5f8387104e0cebff43dc9c209d522e6a11a2fc4c5e225122589ee528d2e24ff33b9158418e74945b4618fdbc176e42079ee43c6",
+    "sha512_file": "zulu21.36.19-ca-crac-jdk21.0.4-linux_musl_x64.tar.gz.sha512",
+    "size": 221981870,
+    "url": "https://static.azul.com/zulu/bin/zulu21.36.19-ca-crac-jdk21.0.4-linux_musl_x64.tar.gz",
+    "vendor": "zulu",
+    "version": "21.36.19"
+  },
+  {
+    "architecture": "x86_64",
+    "features": [
+      "crac"
+    ],
+    "file_type": "tar.gz",
+    "filename": "zulu21.36.19-ca-crac-jdk21.0.4-linux_x64.tar.gz",
+    "image_type": "jdk",
+    "java_version": "21.0.4",
+    "jvm_impl": "hotspot",
+    "md5": "5ceff22a2ecdd133ecf16bddea6ef31f",
+    "md5_file": "zulu21.36.19-ca-crac-jdk21.0.4-linux_x64.tar.gz.md5",
+    "os": "linux",
+    "release_type": "ga",
+    "sha1": "61a1a68cdffb443bd81ccfd53b150095b8246b13",
+    "sha1_file": "zulu21.36.19-ca-crac-jdk21.0.4-linux_x64.tar.gz.sha1",
+    "sha256": "7b2c578903c3c0ebe80aebd39cfce9b2709ebfad03a55dd795155313f7f5c86e",
+    "sha256_file": "zulu21.36.19-ca-crac-jdk21.0.4-linux_x64.tar.gz.sha256",
+    "sha512": "35c1fb9496bd1881605a1db9e8ed1a235e6fcb85df4a8788ab2cb077315e0988b5d87dfdb9c72aa64e2934412c3f4e458e30531962b603ef392258eb2eaaf718",
+    "sha512_file": "zulu21.36.19-ca-crac-jdk21.0.4-linux_x64.tar.gz.sha512",
+    "size": 219256718,
+    "url": "https://static.azul.com/zulu/bin/zulu21.36.19-ca-crac-jdk21.0.4-linux_x64.tar.gz",
+    "vendor": "zulu",
+    "version": "21.36.19"
+  },
+  {
+    "architecture": "x86_64",
+    "features": [
       "javafx"
     ],
     "file_type": "tar.gz",
@@ -67824,6 +67926,57 @@
     "url": "https://static.azul.com/zulu/bin/zulu22.32.15-ca-jdk22.0.2-linux_x64.zip",
     "vendor": "zulu",
     "version": "22.32.15"
+  },
+  {
+    "architecture": "x86_64",
+    "features": [
+      "crac",
+      "musl"
+    ],
+    "file_type": "tar.gz",
+    "filename": "zulu22.32.17-ca-crac-jdk22.0.2-linux_musl_x64.tar.gz",
+    "image_type": "jdk",
+    "java_version": "22.0.2",
+    "jvm_impl": "hotspot",
+    "md5": "8d6ee4dc51bcf5ce6835ed04b66e8615",
+    "md5_file": "zulu22.32.17-ca-crac-jdk22.0.2-linux_musl_x64.tar.gz.md5",
+    "os": "linux",
+    "release_type": "ga",
+    "sha1": "98387c469104eb715d4b88424333e014f18b2c6d",
+    "sha1_file": "zulu22.32.17-ca-crac-jdk22.0.2-linux_musl_x64.tar.gz.sha1",
+    "sha256": "0f6a4c6dafebdaf2937b9436db98b32d12603b778b3bce6faf3ddfce59810d00",
+    "sha256_file": "zulu22.32.17-ca-crac-jdk22.0.2-linux_musl_x64.tar.gz.sha256",
+    "sha512": "6b654e3903c79ae0b71c9333bb4ed73396d63e1410aebf0e19a7d9aeace632dcf8f83b9761c76c6da27878387d4109487439d61f48b69701086eeaa6cfacd219",
+    "sha512_file": "zulu22.32.17-ca-crac-jdk22.0.2-linux_musl_x64.tar.gz.sha512",
+    "size": 219855451,
+    "url": "https://static.azul.com/zulu/bin/zulu22.32.17-ca-crac-jdk22.0.2-linux_musl_x64.tar.gz",
+    "vendor": "zulu",
+    "version": "22.32.17"
+  },
+  {
+    "architecture": "x86_64",
+    "features": [
+      "crac"
+    ],
+    "file_type": "tar.gz",
+    "filename": "zulu22.32.17-ca-crac-jdk22.0.2-linux_x64.tar.gz",
+    "image_type": "jdk",
+    "java_version": "22.0.2",
+    "jvm_impl": "hotspot",
+    "md5": "6d11a9f19d138303ae2e146a768a8182",
+    "md5_file": "zulu22.32.17-ca-crac-jdk22.0.2-linux_x64.tar.gz.md5",
+    "os": "linux",
+    "release_type": "ga",
+    "sha1": "2d5748e0eb61e06601b15cfa4045db6f77edfa30",
+    "sha1_file": "zulu22.32.17-ca-crac-jdk22.0.2-linux_x64.tar.gz.sha1",
+    "sha256": "8a8d8c3d62dcf509487b95e351cb56ad3d0bff638d8306bef8cf46f9b9826cd7",
+    "sha256_file": "zulu22.32.17-ca-crac-jdk22.0.2-linux_x64.tar.gz.sha256",
+    "sha512": "ea077f27c8986e490d75b30cd7372f594d486c928f33ca044f91de952583e923e64948bdce640865659eac697a43ef52ba7b1e5233ec0c10caaa6a890f1feab6",
+    "sha512_file": "zulu22.32.17-ca-crac-jdk22.0.2-linux_x64.tar.gz.sha512",
+    "size": 217204284,
+    "url": "https://static.azul.com/zulu/bin/zulu22.32.17-ca-crac-jdk22.0.2-linux_x64.tar.gz",
+    "vendor": "zulu",
+    "version": "22.32.17"
   },
   {
     "architecture": "x86_64",
