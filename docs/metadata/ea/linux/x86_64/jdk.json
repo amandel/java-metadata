@@ -39928,5 +39928,53 @@
     "url": "https://static.azul.com/zulu/bin/zulu24.0.33-beta-jdk24.0.0-beta.12-linux_x64.tar.gz",
     "vendor": "zulu",
     "version": "24.0.33"
+  },
+  {
+    "architecture": "x86_64",
+    "features": [
+      "musl"
+    ],
+    "file_type": "tar.gz",
+    "filename": "zulu24.0.35-beta-jdk24.0.0-beta.13-linux_musl_x64.tar.gz",
+    "image_type": "jdk",
+    "java_version": "24.0.0-beta.13",
+    "jvm_impl": "hotspot",
+    "md5": "478185ec3e92b4a7a7651ef5ac56e1cd",
+    "md5_file": "zulu24.0.35-beta-jdk24.0.0-beta.13-linux_musl_x64.tar.gz.md5",
+    "os": "linux",
+    "release_type": "ea",
+    "sha1": "51faa24532324f23d3c46521addd47566a347943",
+    "sha1_file": "zulu24.0.35-beta-jdk24.0.0-beta.13-linux_musl_x64.tar.gz.sha1",
+    "sha256": "aaab2ef253055029d76e27b5503fb9b5532822058d7c98a05a690319a7b58722",
+    "sha256_file": "zulu24.0.35-beta-jdk24.0.0-beta.13-linux_musl_x64.tar.gz.sha256",
+    "sha512": "01b2ad872a086944dfa5a587b6ff3c965c663620e97b8a4aee5cb6abb4b1111d28f88f1edda685c9e5ac40b30501dba0ff6c8197f45bf22a73f6f866ce1541ba",
+    "sha512_file": "zulu24.0.35-beta-jdk24.0.0-beta.13-linux_musl_x64.tar.gz.sha512",
+    "size": 221771843,
+    "url": "https://static.azul.com/zulu/bin/zulu24.0.35-beta-jdk24.0.0-beta.13-linux_musl_x64.tar.gz",
+    "vendor": "zulu",
+    "version": "24.0.35"
+  },
+  {
+    "architecture": "x86_64",
+    "features": [],
+    "file_type": "tar.gz",
+    "filename": "zulu24.0.35-beta-jdk24.0.0-beta.13-linux_x64.tar.gz",
+    "image_type": "jdk",
+    "java_version": "24.0.0-beta.13",
+    "jvm_impl": "hotspot",
+    "md5": "e50af66c4ea312849645054817079cb4",
+    "md5_file": "zulu24.0.35-beta-jdk24.0.0-beta.13-linux_x64.tar.gz.md5",
+    "os": "linux",
+    "release_type": "ea",
+    "sha1": "5d39f0c3336e5ea48aeda025cb64f3c56c987039",
+    "sha1_file": "zulu24.0.35-beta-jdk24.0.0-beta.13-linux_x64.tar.gz.sha1",
+    "sha256": "8bba250231660f0838cb930e33f1651bebd3da5151c153f46250174681c8f100",
+    "sha256_file": "zulu24.0.35-beta-jdk24.0.0-beta.13-linux_x64.tar.gz.sha256",
+    "sha512": "9f233e625030e8926afa6da7c22d47b2ca3cb4672231f2eb0797255a7f82af8c985894163a6aececc1ff587f30953124eebcd4150bda4571e2b719bed5a02986",
+    "sha512_file": "zulu24.0.35-beta-jdk24.0.0-beta.13-linux_x64.tar.gz.sha512",
+    "size": 220620255,
+    "url": "https://static.azul.com/zulu/bin/zulu24.0.35-beta-jdk24.0.0-beta.13-linux_x64.tar.gz",
+    "vendor": "zulu",
+    "version": "24.0.35"
   }
 ]
