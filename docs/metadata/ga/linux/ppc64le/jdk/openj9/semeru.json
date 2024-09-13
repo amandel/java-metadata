@@ -330,6 +330,31 @@
       "certified"
     ],
     "file_type": "rpm",
+    "filename": "ibm-semeru-certified-11-jdk-11.0.24.1-1.ppc64le.rpm",
+    "image_type": "jdk",
+    "java_version": "11.0.24+8",
+    "jvm_impl": "openj9",
+    "md5": "a566dfa3423d33d3bb8bd309f01815be",
+    "md5_file": "ibm-semeru-certified-11-jdk-11.0.24.1-1.ppc64le.rpm.md5",
+    "os": "linux",
+    "release_type": "ga",
+    "sha1": "ba0f6e1aa8c0336388a56ef823119cb88d125924",
+    "sha1_file": "ibm-semeru-certified-11-jdk-11.0.24.1-1.ppc64le.rpm.sha1",
+    "sha256": "d9be1a64937ec032ca74d6a5bbd0a043920b2107b79f74c5a8acf44ad86ee8b5",
+    "sha256_file": "ibm-semeru-certified-11-jdk-11.0.24.1-1.ppc64le.rpm.sha256",
+    "sha512": "b9b52f81ef3451d0fc7d122b3ed38679ac275820f11dc19a13505f007dfd28108e8d5965881a802ec0eb3c575e002015e71d9ecc52c25bfdfbfe41cfbd5a34ba",
+    "sha512_file": "ibm-semeru-certified-11-jdk-11.0.24.1-1.ppc64le.rpm.sha512",
+    "size": 179831468,
+    "url": "https://github.com/ibmruntimes/semeru11-certified-binaries/releases/download/jdk-11.0.24+8_openj9-0.46.1/ibm-semeru-certified-11-jdk-11.0.24.1-1.ppc64le.rpm",
+    "vendor": "semeru",
+    "version": "11.0.24+8_openj9-0.46.1"
+  },
+  {
+    "architecture": "ppc64le",
+    "features": [
+      "certified"
+    ],
+    "file_type": "rpm",
     "filename": "ibm-semeru-certified-17-jdk-17.0.10.0-1.ppc64le.rpm",
     "image_type": "jdk",
     "java_version": "17.0.10+7",
@@ -398,6 +423,31 @@
     "url": "https://github.com/ibmruntimes/semeru17-certified-binaries/releases/download/jdk-17.0.12+7_openj9-0.46.0/ibm-semeru-certified-17-jdk-17.0.12.0-1.ppc64le.rpm",
     "vendor": "semeru",
     "version": "17.0.12+7_openj9-0.46.0"
+  },
+  {
+    "architecture": "ppc64le",
+    "features": [
+      "certified"
+    ],
+    "file_type": "rpm",
+    "filename": "ibm-semeru-certified-17-jdk-17.0.12.1-1.ppc64le.rpm",
+    "image_type": "jdk",
+    "java_version": "17.0.12+7",
+    "jvm_impl": "openj9",
+    "md5": "bed2de98b5b7207ed1d659889f2a63ae",
+    "md5_file": "ibm-semeru-certified-17-jdk-17.0.12.1-1.ppc64le.rpm.md5",
+    "os": "linux",
+    "release_type": "ga",
+    "sha1": "0faf06ffeb3d92cc712228ca56141011687bc05a",
+    "sha1_file": "ibm-semeru-certified-17-jdk-17.0.12.1-1.ppc64le.rpm.sha1",
+    "sha256": "4d948614f4631cf9dcf404babf4e265c27a43597c6fff12baf356204fbded8c1",
+    "sha256_file": "ibm-semeru-certified-17-jdk-17.0.12.1-1.ppc64le.rpm.sha256",
+    "sha512": "d45bef26c676ced5cf3d3df38cf7da69c5ea187bd16b8bb66f23103be93e1aa07d1c84f4fc853791ed8ac3c61b860458dd278276550971841175ae39b5743ef7",
+    "sha512_file": "ibm-semeru-certified-17-jdk-17.0.12.1-1.ppc64le.rpm.sha512",
+    "size": 184801876,
+    "url": "https://github.com/ibmruntimes/semeru17-certified-binaries/releases/download/jdk-17.0.12+7_openj9-0.46.1/ibm-semeru-certified-17-jdk-17.0.12.1-1.ppc64le.rpm",
+    "vendor": "semeru",
+    "version": "17.0.12+7_openj9-0.46.1"
   },
   {
     "architecture": "ppc64le",
@@ -723,6 +773,31 @@
     "url": "https://github.com/ibmruntimes/semeru21-certified-binaries/releases/download/jdk-21.0.4+7_openj9-0.46.0/ibm-semeru-certified-21-jdk-21.0.4.0-1.ppc64le.rpm",
     "vendor": "semeru",
     "version": "21.0.4+7_openj9-0.46.0"
+  },
+  {
+    "architecture": "ppc64le",
+    "features": [
+      "certified"
+    ],
+    "file_type": "rpm",
+    "filename": "ibm-semeru-certified-21-jdk-21.0.4.1-1.ppc64le.rpm",
+    "image_type": "jdk",
+    "java_version": "21.0.4+7",
+    "jvm_impl": "openj9",
+    "md5": "670dc25924df13fab043b5c5d3b15ae3",
+    "md5_file": "ibm-semeru-certified-21-jdk-21.0.4.1-1.ppc64le.rpm.md5",
+    "os": "linux",
+    "release_type": "ga",
+    "sha1": "3b3a8abcdb7f11b034f5b7260396fddd0dbab785",
+    "sha1_file": "ibm-semeru-certified-21-jdk-21.0.4.1-1.ppc64le.rpm.sha1",
+    "sha256": "9f496f5d6d082793bf8ec470b0eedd72b0ad918bb4419919a7dbbe15e81fadb4",
+    "sha256_file": "ibm-semeru-certified-21-jdk-21.0.4.1-1.ppc64le.rpm.sha256",
+    "sha512": "7f03afe467c87be1355a677d64c00f0ae21b4833ea769b6b9ef7cd4bfedda9012859f8533fc2e6e8290d0ff7cfd8079549d78e4bb4e00612d8e8606ab8f41412",
+    "sha512_file": "ibm-semeru-certified-21-jdk-21.0.4.1-1.ppc64le.rpm.sha512",
+    "size": 194753816,
+    "url": "https://github.com/ibmruntimes/semeru21-certified-binaries/releases/download/jdk-21.0.4+7_openj9-0.46.1/ibm-semeru-certified-21-jdk-21.0.4.1-1.ppc64le.rpm",
+    "vendor": "semeru",
+    "version": "21.0.4+7_openj9-0.46.1"
   },
   {
     "architecture": "ppc64le",
@@ -1379,6 +1454,56 @@
     "features": [
       "certified"
     ],
+    "file_type": "tar.gz",
+    "filename": "ibm-semeru-certified-jdk_ppc64le_linux_11.0.24.1.tar.gz",
+    "image_type": "jdk",
+    "java_version": "11.0.24+8",
+    "jvm_impl": "openj9",
+    "md5": "0276a22bf813dd62138c65a706f6f89a",
+    "md5_file": "ibm-semeru-certified-jdk_ppc64le_linux_11.0.24.1.tar.gz.md5",
+    "os": "linux",
+    "release_type": "ga",
+    "sha1": "ba28a25c83157a539f0347d77d9753cc18933f56",
+    "sha1_file": "ibm-semeru-certified-jdk_ppc64le_linux_11.0.24.1.tar.gz.sha1",
+    "sha256": "88c71762bfd33c543e2a8a99f6b19585c1377898ebde88689e12bd19d412c3d4",
+    "sha256_file": "ibm-semeru-certified-jdk_ppc64le_linux_11.0.24.1.tar.gz.sha256",
+    "sha512": "966a1d103a6eae1a8f7ed4300406b4edec5a8360760f076eec4d3abe63ed9e56266cdf79f578e5323875acffd6c6c77807cf6120db70130fcebb44e43a7fdba5",
+    "sha512_file": "ibm-semeru-certified-jdk_ppc64le_linux_11.0.24.1.tar.gz.sha512",
+    "size": 228715553,
+    "url": "https://github.com/ibmruntimes/semeru11-certified-binaries/releases/download/jdk-11.0.24+8_openj9-0.46.1/ibm-semeru-certified-jdk_ppc64le_linux_11.0.24.1.tar.gz",
+    "vendor": "semeru",
+    "version": "11.0.24+8_openj9-0.46.1"
+  },
+  {
+    "architecture": "ppc64le",
+    "features": [
+      "certified"
+    ],
+    "file_type": "zip",
+    "filename": "ibm-semeru-certified-jdk_ppc64le_linux_11.0.24.1.zip",
+    "image_type": "jdk",
+    "java_version": "11.0.24+8",
+    "jvm_impl": "openj9",
+    "md5": "5c03cc90c2cba65a54bdcb7720f5ea6e",
+    "md5_file": "ibm-semeru-certified-jdk_ppc64le_linux_11.0.24.1.zip.md5",
+    "os": "linux",
+    "release_type": "ga",
+    "sha1": "ed543f48740c2e0824c4fac16a9ec93525543192",
+    "sha1_file": "ibm-semeru-certified-jdk_ppc64le_linux_11.0.24.1.zip.sha1",
+    "sha256": "cf090c8cfa6361337449f97b55f4152b66bb6792490e3bb62e021c0528a6643e",
+    "sha256_file": "ibm-semeru-certified-jdk_ppc64le_linux_11.0.24.1.zip.sha256",
+    "sha512": "33d7600fd11afefbb7f8d256080395e51730b2faa64447e45e6bf27049742b1b64c42fba54295d301cf68f2be61208655c585ccbc4a7b47d32cb33a9d6ddc5af",
+    "sha512_file": "ibm-semeru-certified-jdk_ppc64le_linux_11.0.24.1.zip.sha512",
+    "size": 101630,
+    "url": "https://github.com/ibmruntimes/semeru11-certified-binaries/releases/download/jdk-11.0.24+8_openj9-0.46.1/ibm-semeru-certified-jdk_ppc64le_linux_11.0.24.1.zip",
+    "vendor": "semeru",
+    "version": "11.0.24+8_openj9-0.46.1"
+  },
+  {
+    "architecture": "ppc64le",
+    "features": [
+      "certified"
+    ],
     "file_type": "zip",
     "filename": "ibm-semeru-certified-jdk_ppc64le_linux_17.0.10.0.tap.zip",
     "image_type": "jdk",
@@ -1523,6 +1648,31 @@
     "url": "https://github.com/ibmruntimes/semeru17-certified-binaries/releases/download/jdk-17.0.12+7_openj9-0.46.0/ibm-semeru-certified-jdk_ppc64le_linux_17.0.12.0.zip",
     "vendor": "semeru",
     "version": "17.0.12+7_openj9-0.46.0"
+  },
+  {
+    "architecture": "ppc64le",
+    "features": [
+      "certified"
+    ],
+    "file_type": "tar.gz",
+    "filename": "ibm-semeru-certified-jdk_ppc64le_linux_17.0.12.1.tar.gz",
+    "image_type": "jdk",
+    "java_version": "17.0.12+7",
+    "jvm_impl": "openj9",
+    "md5": "057c98c659b138b228060ea90c26686f",
+    "md5_file": "ibm-semeru-certified-jdk_ppc64le_linux_17.0.12.1.tar.gz.md5",
+    "os": "linux",
+    "release_type": "ga",
+    "sha1": "d5fc6607fd9b1435cd6149c494dcc682a120a8e1",
+    "sha1_file": "ibm-semeru-certified-jdk_ppc64le_linux_17.0.12.1.tar.gz.sha1",
+    "sha256": "a96dc5d0b401b27de113546b65237bf8b8093109b638b2edc9e85885cd127360",
+    "sha256_file": "ibm-semeru-certified-jdk_ppc64le_linux_17.0.12.1.tar.gz.sha256",
+    "sha512": "f20466d856d5e9701bf2b68b28d9af4e49b5c29b8f7468eee7ce90c5ef87bf1447ba0f520f1a048ece3cda6fd4d0574392948f069d08d63b83c639082d7fc6f5",
+    "sha512_file": "ibm-semeru-certified-jdk_ppc64le_linux_17.0.12.1.tar.gz.sha512",
+    "size": 239875449,
+    "url": "https://github.com/ibmruntimes/semeru17-certified-binaries/releases/download/jdk-17.0.12+7_openj9-0.46.1/ibm-semeru-certified-jdk_ppc64le_linux_17.0.12.1.tar.gz",
+    "vendor": "semeru",
+    "version": "17.0.12+7_openj9-0.46.1"
   },
   {
     "architecture": "ppc64le",
@@ -2198,6 +2348,56 @@
     "url": "https://github.com/ibmruntimes/semeru21-certified-binaries/releases/download/jdk-21.0.4+7_openj9-0.46.0/ibm-semeru-certified-jdk_ppc64le_linux_21.0.4.0.zip",
     "vendor": "semeru",
     "version": "21.0.4+7_openj9-0.46.0"
+  },
+  {
+    "architecture": "ppc64le",
+    "features": [
+      "certified"
+    ],
+    "file_type": "tar.gz",
+    "filename": "ibm-semeru-certified-jdk_ppc64le_linux_21.0.4.1.tar.gz",
+    "image_type": "jdk",
+    "java_version": "21.0.4+7",
+    "jvm_impl": "openj9",
+    "md5": "5343069cf33adf24c3df2e9def619a91",
+    "md5_file": "ibm-semeru-certified-jdk_ppc64le_linux_21.0.4.1.tar.gz.md5",
+    "os": "linux",
+    "release_type": "ga",
+    "sha1": "e568ae6b4ddf60e43bffdf887513e3d4e664fa59",
+    "sha1_file": "ibm-semeru-certified-jdk_ppc64le_linux_21.0.4.1.tar.gz.sha1",
+    "sha256": "dd9bb02646443825dbd4dc9983d1ab8b43c648875e8e133fdb218db6ca6a3aaf",
+    "sha256_file": "ibm-semeru-certified-jdk_ppc64le_linux_21.0.4.1.tar.gz.sha256",
+    "sha512": "7e58fc97faac28bf43f3555b4e15ad955c98f9d200c0acd8ba7c1f799783f34b8eb119003a12232ce27d641a6f337a4ce2cdc421733ee5326e99dcc8f2bced61",
+    "sha512_file": "ibm-semeru-certified-jdk_ppc64le_linux_21.0.4.1.tar.gz.sha512",
+    "size": 253230324,
+    "url": "https://github.com/ibmruntimes/semeru21-certified-binaries/releases/download/jdk-21.0.4+7_openj9-0.46.1/ibm-semeru-certified-jdk_ppc64le_linux_21.0.4.1.tar.gz",
+    "vendor": "semeru",
+    "version": "21.0.4+7_openj9-0.46.1"
+  },
+  {
+    "architecture": "ppc64le",
+    "features": [
+      "certified"
+    ],
+    "file_type": "zip",
+    "filename": "ibm-semeru-certified-jdk_ppc64le_linux_21.0.4.1.zip",
+    "image_type": "jdk",
+    "java_version": "17.0.12+7",
+    "jvm_impl": "openj9",
+    "md5": "66c7a2b2f65a00dc307f144cd63bb66e",
+    "md5_file": "ibm-semeru-certified-jdk_ppc64le_linux_21.0.4.1.zip.md5",
+    "os": "linux",
+    "release_type": "ga",
+    "sha1": "ae406c9b38591eb7f6f28c55f45fa4fd6e1aecea",
+    "sha1_file": "ibm-semeru-certified-jdk_ppc64le_linux_21.0.4.1.zip.sha1",
+    "sha256": "ec4f6979f6ab57cdd83feabf64d8ba158ea2987665f8d46b47a62f25f0d02b9b",
+    "sha256_file": "ibm-semeru-certified-jdk_ppc64le_linux_21.0.4.1.zip.sha256",
+    "sha512": "eadad8ab1bb366ac43ea058d166ff25b4906e4f4d68fdd2d442b23c7e23f6d91909bcb2988af372df24bf87a490b73ce5f179615f798ddd14b347268bab49e7b",
+    "sha512_file": "ibm-semeru-certified-jdk_ppc64le_linux_21.0.4.1.zip.sha512",
+    "size": 115771,
+    "url": "https://github.com/ibmruntimes/semeru17-certified-binaries/releases/download/jdk-17.0.12+7_openj9-0.46.1/ibm-semeru-certified-jdk_ppc64le_linux_21.0.4.1.zip",
+    "vendor": "semeru",
+    "version": "17.0.12+7_openj9-0.46.1"
   },
   {
     "architecture": "ppc64le",
