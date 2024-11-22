@@ -50,7 +50,7 @@ do
         JVM_IMPL="openj9"
         OS="linux"
         ARCH=$ARCHITECTURE
-        ARCHIVE=$(echo "$IBM_FILE" | perl -pe 's#.*(\.[^.]+)$#$1#g')
+        ARCHIVE=$(echo "$IBM_FILE" | perl -pe 's#.*\.([^.]+)$#$1#g')
         if [[ "${IBM_FILE}" = *"jdk"* ]]
         then
           IMAGE_TYPE="jdk"
